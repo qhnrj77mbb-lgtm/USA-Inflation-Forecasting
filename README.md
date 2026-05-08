@@ -39,8 +39,6 @@ To run this dashboard locally, ensure you have an [API Key from FRED](https://st
 # Install required packages
 install.packages(c("shiny", "fredr", "dplyr", "forecast", "ggplot2", "lubridate", "bslib"))
 
-# Run the app directly from GitHub
-shiny::runGitHub("YOUR_GITHUB_USERNAME/USA-Inflation-Forecasting")
 ```
 
 ---
